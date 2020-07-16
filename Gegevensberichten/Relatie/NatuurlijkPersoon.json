@@ -1,0 +1,67 @@
+{
+    "sleutelVerzendend": "b07d03c-e933-4610-aabf-d4bf640887a6",
+    "code": "CON-1231",
+    "voornaam": "Jan",
+    "initialen": "J",
+    "tussenvoegsels": "de",
+    "achternaam": "Vries",
+    "geslacht": {
+        "code": "M"
+    },
+    "geboortedatum": "1985-04-23T00:00:00.000Z",
+    "aanhef": "de heer",
+    "adressen": [
+        {
+            "soort" : {
+                "code": "WOO"
+            },
+            "straatnaam": "Storckhorsterdijk",
+            "huisnummer": "4",
+            "huisletter": "A",
+            "postcode": "7131RD",
+            "woonplaats": {
+                "code": "Zieuwent"
+            },
+            "land": {
+                "code": "NL"
+            }
+        }
+    ],
+    "contactgegevens": [
+        {
+            "soort": {
+                "code": "TEL"
+            },
+            "detailSoort": {
+                "code": "PRI"
+            },
+            "waarde": "0612312312"
+        },
+        {
+            "soort": {
+                "code": "EMA"
+            },
+            "detailSoort": {
+                "code": "PRI"
+            },
+            "waarde": "jan.devries@gmail.com"
+        }
+    ],
+    "rollen": [
+        {
+            "soort": {
+                "code": "MDW"
+            }
+        },
+        {
+            "soort": {
+                "code": "HOO"
+            }
+        },
+        {
+            "soort": {
+                "code" : "PLN"
+            }
+        }
+    ]
+}

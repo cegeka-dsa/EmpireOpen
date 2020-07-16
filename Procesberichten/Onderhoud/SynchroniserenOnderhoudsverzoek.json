@@ -1,0 +1,30 @@
+{
+    "sleutelVerzendend": "b07d03c-e933-4610-aabf-d4bf640887a6",
+    "code": "OV001",
+    "omschrijving": "Lekkage op zolder",
+    "defecten" : [
+        {}
+    ],
+    "eenheid": {
+        "sleutelVerzendend": "07db03c-e933-aabf-4610-d640884bf7a6"
+    },
+    "collectiefObject": null,
+    "cluster": null,
+    "onderhoudSoort": {
+        "code": "Reparatie"
+    },
+    "melddatum": "2020-06-29T13:50:29.2243296+02:00",
+    "melder": {
+        "sleutelVerzendend": "d03cb07-4610-e933-afab-d4bf640887a6",
+    },
+    "extraElementen": [
+        {
+            "naam": "prioriteit",
+            "waarde": "normaal"
+        },
+        {
+            "naam": "rayon",
+            "waarde": "0307cbd-bcab-4610-e933-d08874bf64a6"
+        }
+    ]
+}
